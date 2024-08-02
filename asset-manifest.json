@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4fa152ce.css",
+    "main.js": "/static/js/main.4d7d2b82.js",
+    "static/media/role2.jpg": "/static/media/role2.aa7366b1a2b93d13d9ad.jpg",
+    "static/media/racing2.jpg": "/static/media/racing2.e91a3d698acdfcb706f7.jpg",
+    "static/media/shooter2.webp": "/static/media/shooter2.62ae9977165387a1b540.webp",
+    "static/media/moba1.webp": "/static/media/moba1.1f29efee5ba97469f9c6.webp",
+    "static/media/racing1.jpg": "/static/media/racing1.0bc60db3691c15696bfa.jpg",
+    "static/media/breaking.webp": "/static/media/breaking.d2306cd756a5029bd69b.webp",
+    "static/media/moba2.webp": "/static/media/moba2.ca95fa6f092f37e275bf.webp",
+    "static/media/shooter1.jpg": "/static/media/shooter1.db4cd749b1317dafc3b2.jpg",
+    "static/media/role1.jpeg": "/static/media/role1.5e2de188cbcb8d80c925.jpeg",
+    "static/media/collegeprofilepicture.jpg": "/static/media/collegeprofilepicture.7f13a8f3fc3e90072d73.jpg",
+    "index.html": "/index.html",
+    "main.4fa152ce.css.map": "/static/css/main.4fa152ce.css.map",
+    "main.4d7d2b82.js.map": "/static/js/main.4d7d2b82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fa152ce.css",
+    "static/js/main.4d7d2b82.js"
+  ]
+}
