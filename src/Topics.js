@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import './styles.css';
 import moba1 from './images/moba1.webp';
 import moba2 from './images/moba2.webp';

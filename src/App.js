@@ -1,5 +1,5 @@
 import { useState, React } from 'react';
-import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route, Link, Navigate } from 'react-router-dom';
 import Topics from './Topics';
 import News from './News';
 import Profile from './Profile';
@@ -46,6 +46,7 @@ const App = () => {
                     </div>
                 </nav>
                 <Routes>
+                    <Route path="/" element={<Navigate to="/news" />} />
                     <Route path="/news" element={<News />} />
                     <Route path="/topics" element={<Topics />} />
                     <Route path="/profile" element={<Profile />} />
