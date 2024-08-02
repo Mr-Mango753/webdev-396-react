@@ -34,7 +34,7 @@ const App = () => {
 
     return (
         <div className={`app ${theme}`} style={{ fontSize: `${fontSize}px` }}>
-            <Router basename="/webdev-396-react">
+            <Router>
                 <nav>
                     <Link to="/news">News</Link>
                     <Link to="/topics">Topics</Link>
