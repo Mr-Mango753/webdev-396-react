@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/webdev-396-react/static/css/main.4fa152ce.css",
-    "main.js": "/webdev-396-react/static/js/main.054a4eb0.js",
+    "main.js": "/webdev-396-react/static/js/main.2f1dadeb.js",
     "static/media/role2.jpg": "/webdev-396-react/static/media/role2.aa7366b1a2b93d13d9ad.jpg",
     "static/media/racing2.jpg": "/webdev-396-react/static/media/racing2.e91a3d698acdfcb706f7.jpg",
     "static/media/shooter2.webp": "/webdev-396-react/static/media/shooter2.62ae9977165387a1b540.webp",
@@ -14,10 +14,10 @@
     "static/media/collegeprofilepicture.jpg": "/webdev-396-react/static/media/collegeprofilepicture.7f13a8f3fc3e90072d73.jpg",
     "index.html": "/webdev-396-react/index.html",
     "main.4fa152ce.css.map": "/webdev-396-react/static/css/main.4fa152ce.css.map",
-    "main.054a4eb0.js.map": "/webdev-396-react/static/js/main.054a4eb0.js.map"
+    "main.2f1dadeb.js.map": "/webdev-396-react/static/js/main.2f1dadeb.js.map"
   },
   "entrypoints": [
     "static/css/main.4fa152ce.css",
-    "static/js/main.054a4eb0.js"
+    "static/js/main.2f1dadeb.js"
   ]
 }
